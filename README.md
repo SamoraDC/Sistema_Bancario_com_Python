@@ -32,4 +32,4 @@ O sistema oferece um menu interativo com opções para:
 
 ## Conclusão
     Este sistema de gestão bancária é uma ferramenta simples, porém robusta, que simula operações bancárias básicas. 
-    Ele foi projetado para ser expansível, permitindo futuras melhorias e adições de novas funcionalidades conforme necessário.
+    Ele foi projetado para ser expansível, permitindo futuras melhorias e adições de novas funcionalidades.
